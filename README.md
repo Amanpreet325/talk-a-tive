@@ -1,4 +1,4 @@
-Here's the revised README file for your **Talk-A-Tive** chat application, including the information about **Socket.io** for real-time communication:
+
 
 ---
 
